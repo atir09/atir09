@@ -79,7 +79,7 @@ Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing
 [![](https://visitcount.itsvg.in/api?id=atir09&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## Portfolio Link
-([atir09.github.io/](https://atir09.github.io/))
+[atir09.github.io/](https://atir09.github.io/)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
